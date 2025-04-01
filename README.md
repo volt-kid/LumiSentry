@@ -39,6 +39,9 @@ To build your own LumiSentry system, you will need the following components:
 3. **Buzzer**:
    - Positive terminal to Digital Pin 3
    - Negative terminal to GND
+  
+4. **Diagram**
+   - https://postimg.cc/3ySyXTwG
 
 ## Installation 📦
 
